@@ -1,2 +1,2 @@
 # AIOT_2025
-# AIOT_2025
+Tutorial uploaded
